@@ -6,3 +6,5 @@
 **Surname:** SALMAN  
 **Email:** zeyneprsalman@gmail.com  
 
+![](img/myCertificate.png)
+
