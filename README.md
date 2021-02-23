@@ -6,5 +6,7 @@
 **Surname:** SALMAN  
 **Email:** zeyneprsalman@gmail.com  
 
-![](img/myCertificate.png)
+
+# Images in ReadFile
+<img widht="964" alt="My Certificate" src="https://github.com/zeynepsl/GlobalAIHubPythonCourse/blob/main/myCertificate.png">
 
