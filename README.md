@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-![](img/logo.png)
+<img widht="964" alt=" " src="https://github.com/zeynepsl/GlobalAIHubPythonCourse/blob/main/logo.png">
 
 **Course Date:** 15.02.2020 
 **Name:** Zeynep  
