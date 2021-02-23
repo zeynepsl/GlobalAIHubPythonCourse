@@ -7,6 +7,6 @@
 **Email:** zeyneprsalman@gmail.com  
 
 
-# Images in ReadFile
+# Certification
 <img widht="964" alt="My Certificate" src="https://github.com/zeynepsl/GlobalAIHubPythonCourse/blob/main/myCertificate.png">
 
