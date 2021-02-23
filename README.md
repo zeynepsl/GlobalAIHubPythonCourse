@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-![](C:\Users\HP\Desktop\GlobalAIhub\logo.png)
+![](img/logo.png)
 
 **Course Date:** 15.02.2020 
 **Name:** Zeynep  
