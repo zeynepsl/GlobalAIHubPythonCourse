@@ -9,5 +9,5 @@
 
 
 # Certification
-<img widht="964" alt="My Certificate" src="https://github.com/zeynepsl/GlobalAIHubPythonCourse/blob/main/myCertificate.png">
+<img widht="964" alt="My Certificate" src="https://github.com/zeynepsl/GlobalAIHubPythonCourse/blob/main/MyCertificate.png">
 
